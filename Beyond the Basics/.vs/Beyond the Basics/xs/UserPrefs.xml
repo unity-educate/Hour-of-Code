@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DC678D6C-13C4-C490-54C3-3D5A248E4EAB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Shape.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="48" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="44fd3198-1025-48e7-abe2-2a442e5fbc1b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
